@@ -2463,7 +2463,7 @@ body {
 .cid-rsn4mFis4J {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #6cb4be;
+  background-color: #efefef;
 }
 .cid-rsn4mFis4J .line {
   background-color: #232323;
@@ -3064,13 +3064,13 @@ body {
   color: #232323;
 }
 .cid-rsjSJ6kgo3 {
-  background-image: url("../../../assets/images/will2liv2.JPG");
+  background-color: #a8ffd720;
 }
 .cid-rsjSJ6kgo3 .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
 .cid-rsjSJ6kgo3 .media-container-column {
-  background-color: #efefef;
+  background-color: #efefef80;
 }
 @media (max-width: 767px) {
   .cid-rsjSJ6kgo3 .media-container-column {
@@ -4010,7 +4010,7 @@ body {
 .cid-rqHuDFdVNk {
   padding-top: 135px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rqHuDFdVNk P {
   color: #767676;
@@ -5464,6 +5464,21 @@ body {
     width: auto;
     margin: auto;
   }
+}
+.cid-rsppyCisc1 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #e6e6e6;
+}
+.cid-rsppyCisc1 H2 {
+  color: #232323;
+  text-align: center;
+}
+.cid-rsppyCisc1 .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rsppyCisc1 .mbr-section-subtitle DIV {
+  text-align: left;
 }
 .cid-rsppyCiscO {
   padding-top: 30px;

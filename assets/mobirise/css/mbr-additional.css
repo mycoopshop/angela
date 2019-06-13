@@ -34,6 +34,10 @@ body {
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
+.display-3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+}
 .display-4 {
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
@@ -1924,8 +1928,8 @@ body {
   }
 }
 .cid-rsnHMy15AC {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   background-color: #232323;
 }
 .cid-rsnHMy15AC .testimonial-text {
@@ -4007,10 +4011,18 @@ body {
 .cid-rqGbRo0dUV .dropdown-item:hover {
   color: #2ec17d !important;
 }
-.cid-rqHuDFdVNk {
-  padding-top: 135px;
-  padding-bottom: 30px;
+.cid-rtgbyvE9cB {
+  padding-top: 60px;
+  padding-bottom: 20px;
   background-color: #efefef;
+}
+.cid-rtgbyvE9cB {
+  font-size: 12px !important;
+}
+.cid-rqHuDFdVNk {
+  padding-top: 160px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-rqHuDFdVNk P {
   color: #767676;
@@ -4047,8 +4059,8 @@ body {
   }
 }
 .cid-rqHyskue2R {
-  padding-top: 120px;
-  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 10px;
   background-color: #ffffff;
 }
 .cid-rqHyskue2R .testimonial-text {
